@@ -1,4 +1,11 @@
 # Agora-access-token-generator
+[![Downloads](https://img.shields.io/packagist/dt/yasserbelhimer/agora-access-token-generator.svg?style=flat-square]())]()
+[![Version](https://img.shields.io/packagist/v/yasserbelhimer/agora-access-token-generator.svg?style=flat-square]())]()
+[![Forks](https://img.shields.io/github/forks/yasserbelhimer/agora-access-token-generator.svg?style=flat-square]())]()
+[![Stars](https://img.shields.io/github/stars/yasserbelhimer/agora-access-token-generator.svg?style=flat-square]())]()
+[![License](https://img.shields.io/github/license/yasserbelhimer/agora-access-token-generator.svg?style=flat-square]())]()
+
+
 Simple laravel package to generate access token for RTC agora
 ## Installation, and Usage Instructions
 
